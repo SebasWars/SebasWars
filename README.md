@@ -1,5 +1,4 @@
 ## Hi there 👋
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGDS5EcuaAkDg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733252414092?e=1762992000&v=beta&t=w3cWJanAo2SXmAlUt9ioy-NGi5rK9K5RPoadRGfUUlk">
 
 ## About me 🤔
 
