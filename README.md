@@ -1,76 +1,136 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Sebastian%20Torres&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18" />
+</div>
+
+<!--
+  👉 Reemplaza la URL de abajo por tu GIF con el efecto Matrix una vez lo generes
+  (ver instrucciones al pie del archivo)
+-->
+<div align="center">
+  <img src="TU_GIF_MATRIX_AQUI.gif" width="180" style="border-radius: 50%;" />
 </div>
 
 <h3 align="center">
-  Hi, I'm Sebastian
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=520&lines=Building+scalable+full-stack+applications;Relational+databases+%26+clean+architecture;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </h3>
 
----
-
-- 👨‍💻 As a Full-Stack developer, I'm constantly learning and exploring new technologies to enhance my skills.  
-- 💬 Ask me about my experience with Web Development, Frontend Frameworks, and Backend APIs.  
-- 🌱 I’m currently diving deeper into _[Python](https://www.python.org/)_ and _[Angular](https://angular.io/)_, exploring advanced concepts and building real-world projects.  
-
-## 🛠 &nbsp;Tech Stack
-
-#### 🔧 Languages
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-
-
-
-#### 🖥️ Frameworks & Libraries (Frontend)
-
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### 🖥️ Frameworks & Libraries (Backend)
-
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%2300f.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-
-#### 🧪 Testing
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-#### 🔧 Tools
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-## 📊 Profile Statistics
- 
- ### ⏱ Streak Stats
- 
- <div align=center>
-  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sebasWars&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
-
- </div>
- 
- ### 📈 Activity Graph
- 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sebasWars&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
- 
-
----
-
-### 🔗 &nbsp;Contact Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sebasWars&label=Profile%20Views&color=6EE7B7&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/sebasWars?label=Followers&style=flat-square&color=6EE7B7" />
+</p>
 
 <div align="center">
-<a href="mailto:sebastiantorres.develop@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/sebastian-torres-developer/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" />
+</div>
+
+## 🧭 About Me
+
+- 👨‍💻 Full-Stack developer focused on **backend architecture**, **relational database design** and **clean, maintainable code**.
+- 🏗️ I enjoy building complete products end to end — from the database schema to the UI — with real-world logic behind every decision.
+- 🌱 Currently deepening my knowledge of **Python** and **Angular**, expanding beyond the JS/TS ecosystem.
+- 🎯 Focused on continuous growth: I revisit, refactor and question my own code until it's production-ready.
+- 💬 Ask me about **Web Development**, **API design**, **state management**, or **SQL vs NoSQL** trade-offs.
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" />
+</div>
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,sqlite&theme=dark&perline=6" />
+
+<br><br>
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark&perline=6" />
+
+<br><br>
+
+**Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark&perline=6" />
+<br>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="48" />
+
+<br><br>
+
+**Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark&perline=6" />
+<br>
+<img src="https://img.shields.io/badge/Turso-4FF8D2?style=for-the-badge&logo=turso&logoColor=black" height="48" />
+
+<br><br>
+
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma&theme=dark&perline=6" />
+
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" />
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sebasWars&show_icons=true&theme=dracula&hide_border=true&bg_color=1E2B3C&title_color=95CCFF&icon_color=95CCFF&text_color=FFFFFF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasWars&layout=compact&theme=dracula&hide_border=true&bg_color=1E2B3C&title_color=95CCFF&text_color=FFFFFF" />
+</div>
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=sebasWars&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF" />
+</div>
+
+### 📈 Activity Graph
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sebasWars&theme=react-dark&hide_border=true" />
+</div>
+
+### 🟩 Contribution Heatmap
+
+<div align="center">
+  <img width="100%" src="https://ghchart.rshah.org/00d9ff/sebasWars" alt="Sebastian's github contribution chart" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" />
+</div>
+
+## 🏆 Featured Project
+
+<div align="center">
+
+### [Kontrolly](https://github.com/SebasWars/Kontrolly)
+_SaaS de gestión de inventario, TPV y facturación para pequeños comercios_
+
+`React` `TypeScript` `Node.js` `Turso` `JWT`
+
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" />
+</div>
+
+## 🔗 Contact Me
+
+<div align="center">
+  <a href="mailto:sebastiantorres.develop@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sebastian-torres-developer/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" />
 </div>
