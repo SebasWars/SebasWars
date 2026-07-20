@@ -2,10 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Sebastian%20Torres&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18" />
 </div>
 
-<!--
-  👉 Reemplaza la URL de abajo por tu GIF con el efecto Matrix una vez lo generes
-  (ver instrucciones al pie del archivo)
--->
 <div align="center">
   <img src="TU_GIF_MATRIX_AQUI.gif" width="180" style="border-radius: 50%;" />
 </div>
